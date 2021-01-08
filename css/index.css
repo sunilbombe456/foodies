@@ -1,0 +1,73 @@
+.searchBox{
+  position:absolute;
+  top:15%;
+  left:30%;
+}
+.createAcc{
+  position: absolute;
+  top:15%;
+  right: 5%;
+}
+.createAcc a{
+  text-decoration: none;
+  color:white;
+  padding-right: 10px;
+  font-size: 17px;
+}
+.createAcc button a{
+  text-decoration: none;
+  color:white;
+}
+.createAcc a button{
+   text-decoration: none;
+  color:white;
+}
+.createAcc a:hover{
+  color:white;
+  text-decoration:none; 
+}
+
+.createAcc button{
+  background: transparent;
+  background: rgb(0,0,0,.5);
+  padding: 9px;
+  color:white;
+  border-radius: 5px;
+  border:2px solid white;
+  color:#fff;
+}
+
+.quickSearch{
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+    background:orange;
+    color:white;
+    width: 100%;
+  }
+  .quickSearch h3{
+    text-align: center;
+  }
+    .quickSearch ul{
+      list-style: none;
+      padding-right: 20px;
+      padding-left: 20px;
+      display: inline-block;
+      width: 100%;
+    }
+    .quickSearch ul li{
+      padding-left:22px;
+      margin: 22px;
+      display: inline-block;
+
+    }
+
+    .hotelBox{
+      padding-bottom: 20px;
+      padding-top: 15px;
+      margin-bottom: 25px;
+    }
+    .website-logo img{
+      margin-top:30px;
+      margin-left:25%;
+    }
