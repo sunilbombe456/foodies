@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: FLORLI__
+font link: https://www.fontsquirrel.com/fonts/Florante-at-Laura
+font author: Nyek!
+font author site: 
+Slogan Font: Aleo-Light.otf
+
+icon designer: Alfredo @ IconsAlfredo.com
+icon designer link: /AlfredoCreates
+        
+{"bg":"#003FBA","icon":"#34A1E5","font":"#ffffff","slogan":"#ffffff"}
+      

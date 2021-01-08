@@ -5,7 +5,7 @@ session_start();
 $dbUser = 'root';
 $dbHost = 'localhost';
 $dbPassword = '';
-$dbName ='food';
+$dbName ='foodies';
 $link='';
 
 	$db= new Database($dbHost,$dbUser,$dbPassword,$dbName);

@@ -9,7 +9,7 @@ include('include/config.php');
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
   <!-- favicon icon code -->
-  <link rel="shortcut icon" href="logo/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="logo/cover.png" type="image/x-icon">
 
   <link href="css/login.css" rel="stylesheet" type="text/css">
   <link href="css/header.css" rel="stylesheet" type="text/css">
@@ -70,7 +70,7 @@ include('include/config.php');
 <nav class="menuBar btn-danger">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="index.php"><strong><span style="color:black">Food</span><span style="color:yellow;">Hub</span></strong></a>
+      <a class="navbar-brand" href="index.php"><strong><span style="color:black">Foodies</span></strong></a>
     </div>
       <ul class="nav navbar-nav">
         <li><a href="index.php">Home</a></li>
@@ -115,7 +115,7 @@ include('include/config.php');
     <button type="submit" class="btn btn-danger">Search</button>
   </form>
   <div class="website-logo">
-    <img src="logo/logo.png" class="img-rounded" height="225" width="225">
+    <img src="logo/default.png" class="img-rounded" height="225" width="225">
   </div>
   </div>
       <?php

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="shortcut icon" href="logo/favicon.png" type="image/x-icon">
+  <link rel="shortcut icon" href="logo/cover.png" type="image/x-icon">
 
 
   <link href="css/login.css" rel="stylesheet" type="text/css">
@@ -63,7 +63,7 @@
 <nav class="menuBar navbar btn-danger">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="index.php"><strong><span style="color:black">Food</span><span style="color:yellow;">Hub</span></strong></a>
+      <a class="navbar-brand" href="index.php"><strong><span style="color:black">Foodies</span></strong></a>
     </div>
       <ul class="nav navbar-nav">
         <li><a href="index.php">Home</a></li>
